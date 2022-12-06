@@ -1,5 +1,2 @@
-
-chinh sua noi dung commit 1
-
-noi dung nhanh branch 1
-
+noi dung 1
+them noi dung 2
